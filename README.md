@@ -9,6 +9,7 @@ FHIR - Fast Healthcare Interoperability Resource.
 HITECH - Health Information Technology and Economic and Clinical Health.
 AR - Account Receivable
 PDI - Patient Demographic Information
+Demograps - patient name, age, gender,
 
 90 Data Types 
 

@@ -1,6 +1,7 @@
 # us-health-care
 ```
 HL7 - Health Care Level 7
+CDA - Clinical Document Architecture.
 USCDI - U.S. Core Data for Interoperability.
 PCP - Primary Care Physician.
 HIPAA - Health Insurance Portability and Accountability Act of 1996.

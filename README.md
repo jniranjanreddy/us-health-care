@@ -20,6 +20,7 @@ OAUTH -
 EMR - Electronic Medical Record
 EHR - Electronic Health Record
 HIt - Healthcare Information Technology.
+SOA - Serviced Oriented Architecture
 
 
 90 Data Types 

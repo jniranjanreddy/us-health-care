@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=kOU2HGqK23o&list=PLUr-PTsPYKV4Cl7gUe5sPoCQEfRJ3F
 HL7 - Health Care Level 7
 CDA - Clinical Document Architecture.
 USCDI - U.S. Core Data for Interoperability.
-PCP - Primary Care Physician.
+PCP - Primary Care Physician. - 
 HIPAA - Health Insurance Portability and Accountability Act of 1996.
 PHI - Protected Health Information # patient Name, address, DOB, Medical History.
 HHS - Health and Human Services.
@@ -40,5 +40,25 @@ Payer - The insurance company who covers patient for any disease or illness and 
 Granter/Subscriber - The person who has the insurance policy is guarantor/Subscriber, A patient visiting a Doctor may be covered under someone's else policy,
                      example a child, or spouse under husbands policy.
 Practice - A place where the services are performed sometimes it is same as the name of Docker ex. Dr. Mark Clinic, Pain management Center of Georgia
+
+
+PCP - Primary Care Physician - A Doctor who see the patient for the first time for a disease or illness and refer it to the specialist. some kind of insurance plans 
+                               must require a PCP.
+Specialist - The Doctors who are specialize to treat a particular type of disease or organ, Like Cardiologist, Pediatricin or Gynecologist etc...
+
+Referral - Some insurance plan require a referral from the PCP before seen by a specialist. Specialist needs referral from Patients PCP.
+
+Authorization - Insurance Companies ask for Authorization from the Provider before a major treatment, test or surgery, without taking prior authorization claims can be denied.
+
+
+
+
+
+
+
+
+
+
+
 
 ```

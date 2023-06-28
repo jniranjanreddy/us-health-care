@@ -26,6 +26,11 @@ EMR - Electronic Medical Record
 EHR - Electronic Health Record
 HIt - Healthcare Information Technology.
 SOA - Serviced Oriented Architecture
+ICD-10
+CPT -
+DRG -
+HCPCS - 
+
 
 90 Data Types 
 

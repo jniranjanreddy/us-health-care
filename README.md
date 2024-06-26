@@ -56,7 +56,9 @@ Referral - Some insurance plan require a referral from the PCP before seen by a 
 
 Authorization - Insurance Companies ask for Authorization from the Provider before a major treatment, test or surgery, without taking prior authorization claims can be denied.
 
-
+===============
+```
+## AHM250
 
 
 

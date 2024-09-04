@@ -59,6 +59,7 @@ Authorization - Insurance Companies ask for Authorization from the Provider befo
 ===============
 ```
 ## AHM250
+## https://www.ahip.org/courses/healthcare-management-an-introduction-ahm250
 
 
 
